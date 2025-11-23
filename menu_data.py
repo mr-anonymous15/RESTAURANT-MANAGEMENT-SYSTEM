@@ -27,7 +27,7 @@ fast_food = {
     'Chicken Roll Paratha' : [14 , 220],
     'Beef Roll Paratha' : [15 , 280],
     'Malai Boti Roll' : [16 , 250],
-    'Chicken Tikka Roll' : [17 , 200],
+    'Chicken Tikka Roll' : [17 , 220],
     'Shawarma' : [18 , 250],
     'Fried Chicken' : [19 , 350],
     'Chicken Nuggets' : [20 , 670],
